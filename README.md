@@ -6,4 +6,5 @@
   - Numpy e Pandas
   - Análise Exploratória
   - Preprocesamento de dados
-  - Conceitos de Machine Learning
+  - Conceitos de Machine Learning - Regressão Linear, e KNN, metrica RMSE
+  - Machine Learning na Prática - Regressão Linear, e KNN, metrica RMSE, R2, Validação Cruzada
